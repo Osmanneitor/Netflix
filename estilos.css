@@ -1,0 +1,135 @@
+header{
+    background-image: url(series.jpg);
+    background-position: 100% 100%;border-bottom: solid rgb(51, 50, 50) 7px;padding-bottom: 55px;
+}
+body{
+    margin: 0px;
+}
+.uno{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.uno h2{
+    color: white;background-color: red;
+    font-size: 18px;font-family:sans-serif;margin-right: 55px;border-radius: 5px;padding: 2px 5px;font-weight: lighter;text-decoration: none;margin-top: 30px;padding-bottom: 0px;height: 32px;width: 68px;padding-left: 14px;padding-top: 2px;
+}
+.dos{
+    display: flex;
+    flex-direction: column;color: white;
+    text-align: center;padding-top: 10px;margin-bottom: 40px;margin-top: -20px;flex-wrap: nowrap;
+}
+.tres{
+    display: flex;
+}
+header img{
+    width: 8.8%;height: 10%;padding-left: 54px ; padding-top: 29px;
+}
+.dos h1{font-size: 70px;padding-top: 140px;margin-left: 550px;margin-right: 550px;font-weight: bold;
+}
+.dos h2{
+    font-size: 18px; font-family: sans-serif;margin-left: 150px;margin-right: 150px;font-weight: lighter;
+}
+.dos h3{
+    font-size: 30px; font-family: sans-serif;margin-left: 150px;margin-right: 150px;font-weight: lighter;padding-bottom: 5px;margin-top: -25px;
+}
+.patata{height: 70px;
+    display: flex;
+    flex-direction: row;justify-content: center;color: white;
+}
+.patata input{
+    width: 30%;
+}
+.patata h3{
+    font-size: 30px;padding-left: 10px;background-color: red;
+    margin: 0px; padding-top: 15px;padding-right: 10px;
+}
+main{background-color: black;
+    display: flex;flex-direction: row;justify-content: space-around;align-items: center;padding-bottom: 40px;
+}
+
+#j{
+    width: 100%;height: 100%;padding-right: 500px;margin-right: 30px;
+}
+.limon{
+    background-color: black;
+    display: flex;flex-direction: row;padding-left: 30px;align-items: center;border-bottom: solid rgb(51, 50, 50) 7px;color: white;
+}
+.fresa{
+    color: white;border-bottom: solid rgb(51, 50, 50) 5px;flex-direction: row;justify-content: center;padding-bottom: 1px;flex-wrap: wrap;
+}
+.oso{
+    display: flex;flex-direction: column;
+}
+.oso h1{
+    font-size: 55px;text-align: left;
+}
+#down{
+    width: 550px;
+}
+.oso p{
+    font-size: 28px;width: 520px;font-weight: light;
+}
+.vaso{
+    background-color: black;color: white;text-align: center;flex-direction: column; border-bottom: solid rgb(51, 50, 50)7px;
+}
+.vaso h1{font-size: 50px;
+    
+}
+.vaso li{
+    list-style: none; background-color: rgb(46, 46, 46);padding: 10px;margin: 10px;font-size: 30px;
+}
+li a{
+    text-decoration: none; color: white; font-weight: normal;white-space: pre;
+}
+.uno h2 a{
+    text-decoration: none; color: white;
+}
+.patata h3 a{
+    text-decoration: none;color: white;
+}
+ul{
+    text-align: left; width: 800px;
+}
+.vaso input{
+    width: 450px;
+}
+.vaso .patata{
+    margin-top: 35px;
+}
+.vaso li{
+    padding-left: 25px;
+}
+.vaso h2{
+    font-size: 20px;font-weight: lighter;
+}
+.final{
+    display: flex;flex-direction: row;justify-content: space-evenly;margin-right: 20%; margin-left: 20%;
+}
+footer h6 a{
+text-decoration: none; color: rgb(107, 103, 103);font-size: 15px;font-weight:normal;
+}
+footer{
+    background-color: black;margin-top: -26px;padding-bottom: 20px;
+}
+.preguntas h6{
+    padding-top: 80px;text-align: start;
+}
+.preguntas{
+    padding-left: 517px;
+}
+.Netflix{padding-left: 517px;
+}
+.Netflix h6{color: rgb(107, 103, 103);
+    padding-top: 80px;text-align: start;font-size: 15px;font-weight:normal;
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.vaso .patata h3{
+    font-weight: lighter;
+}
+.dos .patata h3{
+    font-weight: bolder;
+}
